@@ -3,7 +3,7 @@
 
 <div id="top" align="center">
 
-BlockPruner: Fine-grained Pruning for Large Language Models
+BlockPruner: Fine-grained Pruning for Large Language Models | ACL 2025 Findings
 -----------------------------
 <!-- **Authors:** -->
 _**Longguang Zhong, Fanqi Wan, Ruijun Chen, Xiaojun Quan, Liangzhi Li**_
